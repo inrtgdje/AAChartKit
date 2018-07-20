@@ -310,10 +310,13 @@
                                @"Spline Chart---曲线图",
                                @"Step Line Chart--直方折线图",
                                @"Step Area Chart--直方折线填充图",
+                               @"Scatter Chart --散点图",
+                               @"Pie Chart --扇形图"
                                ],
                              /*通过AAOptions实例对象来绘制图形*/
                              @[@"绘制legend居顶部的区域填充图",
                                @"绘制带有中心标题的环形图",
+                               @"调整扇形图的标题和DataLabel字体样式",
                                @"绘制嵌套的柱状图",
                                @"多边形线框的雷达图",
                                @"缝隙很小的柱状图",
@@ -322,7 +325,8 @@
                                @"设置图表绘图区的背景图片",
                                @"Double Y Axises Chart---双Y轴混合图",
                                @"Adjust Data Accuracy---调整数据精度",
-                               @"Adjust Group Padding---调整group间距"
+                               @"Adjust Group Padding---调整group间距",
+                               @"Custom Style Stacked Column---自定义堆积柱状图"
                                ],
                              /*同时显示多个 AAChartView*/
                               @[@"同时显示多个 AAChartView",
